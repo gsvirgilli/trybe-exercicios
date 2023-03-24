@@ -19,3 +19,44 @@ h1 em, h3 em {
     border: 1px solid black;
     font-size: 40px;
 }
+
+li {
+    font-size: 20px;
+}
+
+li em {
+    font-weight: bold;
+}
+
+#Mudanca li:not(:nth-child(n+4)) {
+    color: blue;
+}
+
+.pink {
+    background-color: pink;
+}
+
+#ratinho li a:hover {
+    font-weight: bold;
+}
+
+#ratinho li a[href*="stackoverflow"]{
+    color:orange;
+}
+
+#ratinho li a[href*="w3schools"]{
+    color:green;
+
+}
+
+#ratinho li a[href*="mozilla"]{
+    color:black;
+}
+
+#ratinho li a[href*="devdocs"]{
+    color:yellow;
+}
+
+#ratinho li a[href*="trybe"]{
+    color: green;
+}
