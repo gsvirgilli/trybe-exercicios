@@ -6,6 +6,11 @@ h3 {
     text-align: center;
 }
 
+ul {
+  text-align: center;
+  list-style: none;
+}
+
 .first {
   background-color: rgb(235, 200, 84);
   font-size: 20px;
@@ -40,9 +45,4 @@ h3 {
 
 .premiacao ul li {
   display: inline;
-}
-
-ul {
-  text-align: center;
-  list-style: none;
 }
