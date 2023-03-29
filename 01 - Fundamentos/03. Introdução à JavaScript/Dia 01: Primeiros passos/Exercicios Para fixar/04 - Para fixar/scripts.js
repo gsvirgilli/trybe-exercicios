@@ -23,7 +23,7 @@ if(weekDay == "segunda-feira" || weekDay == "terça-feira" || weekDay == "quarta
 }
 console.log(weekDay);
 
-PARA FIXAR 04 SWITCH e CASE 
+/* PARA FIXAR 04 SWITCH e CASE  */
 let status = "aprovada";
 
 switch(status) {
