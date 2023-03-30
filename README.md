@@ -20,12 +20,12 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 2.2 - Primeiros passos em CSS
 - [x] 2.3 - Seletores e posicionamento
 - [x] 2.4 - HTML Semântico
-- [ ] 2.5 - Projeto - Lessons Learned
+- [x] 2.5 - Projeto - Lessons Learned
 
 ##### Bloco 3: [Introdução à JavaSccript](https://github.com/gsvirgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/3.%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript)
 
-- [ ] 3.1 - Primeiros passos
-- [ ] 3.2 - Array e loop For
+- [x] 3.1 - Primeiros passos
+- [x] 3.2 - Array e loop For
 - [ ] 3.3 - Funções
 - [ ] 3.4 - Objetos
 - [ ] 3.5 - ES6 - let, const, arrow functions e template literals
