@@ -1,0 +1,60 @@
+body {
+    background-color:rgb(253, 251, 251) ;
+    margin: 0px;
+    padding: 10px;
+    border: 20px;
+}
+
+h1 {
+    color:yellowgreen;
+}
+
+p {
+    padding-bottom: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+}
+
+#cabecalho {
+    display: inline-block;
+    position: fixed;
+    top: 0px;
+    left: 45%;
+}
+
+#conjunto {
+
+    margin: 10%;
+    border:2px solid black;
+    padding: 30px;
+}
+
+#licoes_a_aprender li {
+    line-height: 30px;
+
+}
+
+#licoes_a_aprendidas li{
+    line-height: 30px;
+}
+
+#rodape a {
+    text-decoration:none;
+    
+}
+#rodape {
+    text-align: center;
+}
+
+.lado-esquerdo {
+    display: inline-block;
+    text-align: left;
+    width: 50%;
+}
+
+.lado-direito {
+    display: inline-block;
+    text-align: right;
+    width: 40%;
+}
+

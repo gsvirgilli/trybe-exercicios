@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+  <link rel="stylesheet" href="style.css">
+  <title>Hotel Trybe</title>
+</head>
+
+<body>
+  <header class="header-trybe container-fluid">
+    <h1>Trybe Hotel</h1>
+    <img src="./J4viYRH1ppES.jpg" alt="Logo Trybe">
+  </header>
+  <form>
+    <section class="hotel-form">
+      <label for="Checkin">Check-in</label>
+      <input type="date" class="inputCheckin" id="Checkin">
+      <label for="Checkout">Check-out</label>
+      <input type="date" class="inputCheckout" id="Checkout">
+    </section>
+    <section class="hotel-form">
+      <p>Acomodação</p>
+      <label><input type="radio" name="tipo-quarto" class="bedroom" value="Comum">Comum</label>
+      <label><input type="radio" name="tipo-quarto" class="bedroom" value="Club">Club</label>
+      <label><input type="radio" name="tipo-quarto" class="bedroom" value="Luxo">Luxo</label>
+    </section>
+    <section class="hotel-form">
+      <p>Número de Hóspedes</p>
+      <select id="">
+        <option value="1" class="nPessoas">1</option>
+        <option value="2" class="nPessoas">2</option>
+        <option value="3" class="nPessoas">3</option>
+        <option value="4" class="nPessoas">4</option>
+      </select>
+    </section>
+    <section class="hotel-form">
+      <textarea name="" id="" class="obs" placeholder="Observação"></textarea>
+    </section>
+    <input type="button" value="Reservar">
+  </form>
+</body>
+
+</html>
