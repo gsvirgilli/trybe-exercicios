@@ -34,17 +34,17 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Bloco 4: [JavaScript: DOM, Eventos e Web Storage](https://github.com/gsvirgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/4.%20JavaScript:%20DOM%2C%20Eventos%20e%20Web%20Storage)
 
 - [x] 4.1 - DOM e seletores
-- [ ] 4.2 - Trabalhando com elementos
-- [ ] 4.3 - Eventos
-- [ ] 4.4 - Web Storage
-- [ ] 4.6 - Projeto - Arte com Pixels
-- [ ] 4.7 - Projetos Bônus
+- [x] 4.2 - Trabalhando com elementos
+- [x] 4.3 - Eventos
+- [x] 4.4 - Web Storage
+- [x] 4.6 - Projeto - Arte com Pixels
+- [x] 4.7 - Projetos Bônus
 
 ##### Bloco 5: [HTML e CSS: Forms, Flexbox e Responsivo](https://github.com/gsvirgilli/trybe-exercicios/tree/main/1%20-%20Fundamentos/5.%20HTML%20e%20CSS:%20Forms%2C%20Flexbox%20e%20Responsivo)
 
-- [ ] 5.1 - HTML & CSS - Forms
-- [ ] 5.2 - Bibliotecas JavaScript e Frameworks CSS
-- [ ] 5.3 - CSS Flexbox - Parte 1
+- [x] 5.1 - HTML & CSS - Forms
+- [x] 5.2 - Bibliotecas JavaScript e Frameworks CSS
+- [x] 5.3 - CSS Flexbox - Parte 1
 - [ ] 5.4 - CSS Flexbox - Parte 2
 - [ ] 5.5 - CSS Responsivo - Mobile First
 - [ ] 5.6 - Projeto - Trybewarts
