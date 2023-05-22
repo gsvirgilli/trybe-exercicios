@@ -1,0 +1,12 @@
+npm init -y
+
+npm install vite 
+
+colocar o .gitignore e colocar o node_modules dentro dele
+
+
+colocar dentro de package.json no "script"{
+   "dev": "vite --open
+}
+
+ai com isso vc consegue rodar 'npm run dev'
