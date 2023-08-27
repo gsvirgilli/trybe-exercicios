@@ -156,7 +156,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary>✔ <a href="" class="toDo">Seção 9</a>: App de Receitas</summary>
+    <summary>✔ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/02.%20Front-end/08.%20Projeto%20-%20App%20de%20Receitas" class="toDo">Seção 8</a>: App de Receitas</summary>
 
   - [X] 8. - Projeto App de Receitas
 
