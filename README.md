@@ -167,7 +167,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   <details>
     <summary><a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/03.%20Back-end/01.%20Docker%3A%20Utilizando%20Containers" class="toDo">Seção 1</a>: Docker: Utilizando Containers</summary>
 
-  - [ ] 1.1 - Utilizando Containers - Docker
+  - [X] 1.1 - Utilizando Containers - Docker
   - [ ] 1.2 - Manipulando Imagens no Docker
   - [ ] 1.3 - Orquestrando Containers com Docker Compose
   - [ ] 1.4 - Projeto - Docker Todo-List
