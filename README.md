@@ -162,10 +162,10 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
   </details>
 <br>
-  <summary><h2>⏳ Back-end</h2></summary>
+  <summary><h2>✔ Back-end</h2></summary>
 
   <details>
-    <summary><a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/03.%20Back-end/01.%20Docker%3A%20Utilizando%20Containers" class="toDo">Seção 1</a>: Docker: Utilizando Containers</summary>
+    <summary>✔ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/03.%20Back-end/01.%20Docker%3A%20Utilizando%20Containers" class="toDo">Seção 1</a>: Docker: Utilizando Containers</summary>
 
   - [X] 1.1 - Utilizando Containers - Docker
   - [X] 1.2 - Manipulando Imagens no Docker
@@ -174,7 +174,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary><a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/03.%20Back-end/02.%20Introdu%C3%A7%C3%A3o%20%C3%A0%20SQL" class="toDo">Seção 2</a>:  Introdução à SQL</summary>
+    <summary>✔ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/03.%20Back-end/02.%20Introdu%C3%A7%C3%A3o%20%C3%A0%20SQL" class="toDo">Seção 2</a>:  Introdução à SQL</summary>
 
   - [X] 2.1 - Banco de dados SQL
   - [X] 2.2 - Encontrando dados em um banco de dados
@@ -184,7 +184,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary><a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/03.%20Back-end/03.%20Fun%C3%A7%C3%B5es%20SQL%2C%20JOINs%20e%20Normaliza%C3%A7%C3%A3o" class="toDo">Seção 3</a>: Funções SQL, JOINs e Normalização</summary>
+    <summary>✔ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/03.%20Back-end/03.%20Fun%C3%A7%C3%B5es%20SQL%2C%20JOINs%20e%20Normaliza%C3%A7%C3%A3o" class="toDo">Seção 3</a>: Funções SQL, JOINs e Normalização</summary>
 
   - [X] 3.1 - Funções mais usadas no SQL
   - [X] 3.2 - Descomplicando JOINs
@@ -193,7 +193,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary><a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/03.%20Back-end/04.%20Introdu%C3%A7%C3%A3o%20ao%20desenvolvimento%20Web%20com%20Node.js" class="toDo">Seção 4</a>:  Introdução ao desenvolvimento Web com Node.js</summary>
+    <summary>✔ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/03.%20Back-end/04.%20Introdu%C3%A7%C3%A3o%20ao%20desenvolvimento%20Web%20com%20Node.js" class="toDo">Seção 4</a>:  Introdução ao desenvolvimento Web com Node.js</summary>
 
   - [X] 4.1 - Node.js: Runtime Assíncrono
   - [X] 4.2 - Node.js: API REST com Express
@@ -204,7 +204,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary><a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/03.%20Back-end/05.%20Arquitetura%20de%20Software%3A%20Model%2C%20Service%20e%20Controller" class="toDo">Seção 5</a>: Arquitetura de Software: Model, Service e Controller</summary>
+    <summary>✔ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/03.%20Back-end/05.%20Arquitetura%20de%20Software%3A%20Model%2C%20Service%20e%20Controller" class="toDo">Seção 5</a>: Arquitetura de Software: Model, Service e Controller</summary>
 
   - [X] 5.1 - Arquitetura de Software: Camada Model
   - [X] 5.2 - Arquitetura de Software: Refatorando Camada Model
@@ -215,7 +215,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary><a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/03.%20Back-end/06.%20Node%2Cjs%3A%20ORM%20e%20Autentica%C3%A7%C3%A3o" class="toDo">Seção 6</a>: Node.js: ORM e Autenticação</summary>
+    <summary>✔ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/03.%20Back-end/06.%20Node%2Cjs%3A%20ORM%20e%20Autentica%C3%A7%C3%A3o" class="toDo">Seção 6</a>: Node.js: ORM e Autenticação</summary>
 
   - [X] 6.1 - ORM - Interface da aplicação com o banco de dados
   - [X] 6.2 - ORM - Associations 1:1 e 1:N
@@ -225,13 +225,13 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary><a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/03.%20Back-end/07.%20Masterclass%3A%20Implanta%C3%A7%C3%A3o%20de%20Aplica%C3%A7%C3%B5es%20na%20Nuvem/Dia%2001%3A%20Infraestrutura%3A%20Deploy%20com%20Railway" class="toDo">Seção 7</a>: Masterclass: Implantação de Aplicações na Nuvem</summary>
+    <summary>✔ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/03.%20Back-end/07.%20Masterclass%3A%20Implanta%C3%A7%C3%A3o%20de%20Aplica%C3%A7%C3%B5es%20na%20Nuvem/Dia%2001%3A%20Infraestrutura%3A%20Deploy%20com%20Railway" class="toDo">Seção 7</a>: Masterclass: Implantação de Aplicações na Nuvem</summary>
 
   - [X] 7.1 - Infraestrutura: Deploy com Railway
   </details>
 
   <details>
-    <summary><a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/03.%20Back-end/08.%20Introdu%C3%A7%C3%A3o%20a%20TypeScript" class="toDo">Seção 8</a>: Introdução a TypeScript</summary>
+    <summary>✔ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/03.%20Back-end/08.%20Introdu%C3%A7%C3%A3o%20a%20TypeScript" class="toDo">Seção 8</a>: Introdução a TypeScript</summary>
 
   - [X] 8.1 - Aprendendo TypeScript
   - [X] 8.1 - Introdução a Generics
@@ -242,7 +242,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary><a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/03.%20Back-end/09.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos%20(POO)%20e%20SOLID" class="toDo">Seção 9</a>: Programação Orientada a Objetos (POO) e SOLID</summary>
+    <summary>✔ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/03.%20Back-end/09.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos%20(POO)%20e%20SOLID" class="toDo">Seção 9</a>: Programação Orientada a Objetos (POO) e SOLID</summary>
 
   - [X] 9.1 - Introdução à Orientação a Objetos
   - [X] 9.2 - Herança e Composição
@@ -253,7 +253,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary><a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/03.%20Back-end/10.%20Projeto%20-%20TFC%20-%20Trybe%20Futebol%20Clube" class="toDo">Seção 10</a>: Projeto - TFC - Trybe Futebol Clube</summary>
+    <summary>✔ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/03.%20Back-end/10.%20Projeto%20-%20TFC%20-%20Trybe%20Futebol%20Clube" class="toDo">Seção 10</a>: Projeto - TFC - Trybe Futebol Clube</summary>
 
   - [X] 10.1 - Express com Classes
   - [X] 10.1 - Projeto - TFC - Trybe Futebol Clube
@@ -264,14 +264,14 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   <summary><h2>⏳ Ciência da Computação</h2></summary>
 
   <details>
-    <summary><a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/04.%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o/01.%20introdu%C3%A7%C3%A3o%20%C3%A0%20Python" class="toDo">Seção 1</a>: Introdução à Python</summary>
+    <summary>✔ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/04.%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o/01.%20introdu%C3%A7%C3%A3o%20%C3%A0%20Python" class="toDo">Seção 1</a>: Introdução à Python</summary>
 
   - [X] 1.1 - Aprendendo Python
   - [X] 1.2 - Entrada e Saída de Dados com Testes
   </details>
 
   <details>
-    <summary><a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/04.%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o/02.%20Algoritmos" class="toDo">Seção 2</a>: Algoritmos</summary>
+    <summary>✔ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/04.%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o/02.%20Algoritmos" class="toDo">Seção 2</a>: Algoritmos</summary>
 
   - [X] 2.1 - Complexidade de Algoritmos
   - [X] 2.2 - Recursividade e Extratégias para Solução de Problemas
@@ -280,7 +280,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary><a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/04.%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o/03.%20Estruturas%20de%20Dadas%20I%3A%20Listas%20Lineares" class="toDo">Seção 3</a>: Estrutura de Dados I: Listas Lineares</summary>
+    <summary> <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/04.%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o/03.%20Estruturas%20de%20Dadas%20I%3A%20Listas%20Lineares" class="toDo">Seção 3</a>: Estrutura de Dados I: Listas Lineares</summary>
 
   - [ ] 3.1 - P.O.O em Python
   - [ ] 3.2 - Arrays
