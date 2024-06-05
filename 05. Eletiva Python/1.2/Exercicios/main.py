@@ -8,11 +8,9 @@ def mean(numbers):
     >>> mean([2.5, 3.75, 1.25, 4])
     2.875
     >>> mean([])
-    0
+    Traceback (most recent call last):
+    ...
+    ZeroDivisionError: division by zero
 
     """
-    # Adicionamos as duas linhas abaixo. O resto continua igual.
-    try:
-        return sum(numbers) / len(numbers)
-    except ZeroDivisionError:
-        return 0
+    return sum(numbers) / len(numbers)
