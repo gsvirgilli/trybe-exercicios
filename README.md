@@ -162,101 +162,101 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
   </details>
 <br>
-  <summary><h2>⏳ Back-end</h2></summary>
+  <summary><h2>✔ Back-end</h2></summary>
 
   <details>
-    <summary><a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/03.%20Back-end/01.%20Docker%3A%20Utilizando%20Containers" class="toDo">Seção 1</a>: Docker: Utilizando Containers</summary>
+    <summary>✔ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/03.%20Back-end/01.%20Docker%3A%20Utilizando%20Containers" class="toDo">Seção 1</a>: Docker: Utilizando Containers</summary>
 
   - [X] 1.1 - Utilizando Containers - Docker
-  - [ ] 1.2 - Manipulando Imagens no Docker
-  - [ ] 1.3 - Orquestrando Containers com Docker Compose
-  - [ ] 1.4 - Projeto - Docker Todo-List
+  - [X] 1.2 - Manipulando Imagens no Docker
+  - [X] 1.3 - Orquestrando Containers com Docker Compose
+  - [X] 1.4 - Projeto - Docker Todo-List
   </details>
 
   <details>
-    <summary><a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/03.%20Back-end/02.%20Introdu%C3%A7%C3%A3o%20%C3%A0%20SQL" class="toDo">Seção 2</a>:  Introdução à SQL</summary>
+    <summary>✔ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/03.%20Back-end/02.%20Introdu%C3%A7%C3%A3o%20%C3%A0%20SQL" class="toDo">Seção 2</a>:  Introdução à SQL</summary>
 
-  - [ ] 2.1 - Banco de dados SQL
-  - [ ] 2.2 - Encontrando dados em um banco de dados
-  - [ ] 2.3 - Filtrando dados de forma específica
-  - [ ] 2.4 - Manipulando tabelas
-  - [ ] 2.5 - Projeto - All For One
+  - [X] 2.1 - Banco de dados SQL
+  - [X] 2.2 - Encontrando dados em um banco de dados
+  - [X] 2.3 - Filtrando dados de forma específica
+  - [X] 2.4 - Manipulando tabelas
+  - [X] 2.5 - Projeto - All For One
   </details>
 
   <details>
-    <summary><a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/03.%20Back-end/03.%20Fun%C3%A7%C3%B5es%20SQL%2C%20JOINs%20e%20Normaliza%C3%A7%C3%A3o" class="toDo">Seção 3</a>: Funções SQL, JOINs e Normalização</summary>
+    <summary>✔ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/03.%20Back-end/03.%20Fun%C3%A7%C3%B5es%20SQL%2C%20JOINs%20e%20Normaliza%C3%A7%C3%A3o" class="toDo">Seção 3</a>: Funções SQL, JOINs e Normalização</summary>
 
-  - [ ] 3.1 - Funções mais usadas no SQL
-  - [ ] 3.2 - Descomplicando JOINs
-  - [ ] 3.3 - Transformando ideias em um modelo de banco de dados
-  - [ ] 3.4 - Aula ao vivo + Projeto - One For All
+  - [X] 3.1 - Funções mais usadas no SQL
+  - [X] 3.2 - Descomplicando JOINs
+  - [X] 3.3 - Transformando ideias em um modelo de banco de dados
+  - [X] 3.4 - Aula ao vivo + Projeto - One For All
   </details>
 
   <details>
-    <summary><a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/03.%20Back-end/04.%20Introdu%C3%A7%C3%A3o%20ao%20desenvolvimento%20Web%20com%20Node.js" class="toDo">Seção 4</a>:  Introdução ao desenvolvimento Web com Node.js</summary>
+    <summary>✔ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/03.%20Back-end/04.%20Introdu%C3%A7%C3%A3o%20ao%20desenvolvimento%20Web%20com%20Node.js" class="toDo">Seção 4</a>:  Introdução ao desenvolvimento Web com Node.js</summary>
 
-  - [ ] 4.1 - Node.js: Runtime Assíncrono
-  - [ ] 4.2 - Node.js: API REST com Express
-  - [ ] 4.3 - Node.js: Testes de Integração
-  - [ ] 4.3 - Node.js: Express e Middlewares
-  - [ ] 4.3 - Node.js: Express e MySQL
-  - [ ] 4.3 - Projeto - Talker Manager
+  - [X] 4.1 - Node.js: Runtime Assíncrono
+  - [X] 4.2 - Node.js: API REST com Express
+  - [X] 4.3 - Node.js: Testes de Integração
+  - [X] 4.3 - Node.js: Express e Middlewares
+  - [X] 4.3 - Node.js: Express e MySQL
+  - [X] 4.3 - Projeto - Talker Manager
   </details>
 
   <details>
-    <summary><a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/03.%20Back-end/05.%20Arquitetura%20de%20Software%3A%20Model%2C%20Service%20e%20Controller" class="toDo">Seção 5</a>: Arquitetura de Software: Model, Service e Controller</summary>
+    <summary>✔ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/03.%20Back-end/05.%20Arquitetura%20de%20Software%3A%20Model%2C%20Service%20e%20Controller" class="toDo">Seção 5</a>: Arquitetura de Software: Model, Service e Controller</summary>
 
-  - [ ] 5.1 - Arquitetura de Software: Camada Model
-  - [ ] 5.2 - Arquitetura de Software: Refatorando Camada Model
-  - [ ] 5.1 - Arquitetura de Software: Camada Service
-  - [ ] 5.2 - Arquitetura de Software: Refatorando Camada Service
-  - [ ] 5.2 - Arquitetura de Software: Refatorando Camada Controller
-  - [ ] 5.2 - Projeto - Store Manager
+  - [X] 5.1 - Arquitetura de Software: Camada Model
+  - [X] 5.2 - Arquitetura de Software: Refatorando Camada Model
+  - [X] 5.1 - Arquitetura de Software: Camada Service
+  - [X] 5.2 - Arquitetura de Software: Refatorando Camada Service
+  - [X] 5.2 - Arquitetura de Software: Refatorando Camada Controller
+  - [X] 5.2 - Projeto - Store Manager
   </details>
 
   <details>
-    <summary><a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/03.%20Back-end/06.%20Node%2Cjs%3A%20ORM%20e%20Autentica%C3%A7%C3%A3o" class="toDo">Seção 6</a>: Node.js: ORM e Autenticação</summary>
+    <summary>✔ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/03.%20Back-end/06.%20Node%2Cjs%3A%20ORM%20e%20Autentica%C3%A7%C3%A3o" class="toDo">Seção 6</a>: Node.js: ORM e Autenticação</summary>
 
-  - [ ] 6.1 - ORM - Interface da aplicação com o banco de dados
-  - [ ] 6.2 - ORM - Associations 1:1 e 1:N
-  - [ ] 6.3 - ORM - Associations N:N e Transactions
-  - [ ] 6.4 - JWT - (JSON Web Token)
-  - [ ] 6.4 - Projeto - API de Blogs
+  - [X] 6.1 - ORM - Interface da aplicação com o banco de dados
+  - [X] 6.2 - ORM - Associations 1:1 e 1:N
+  - [X] 6.3 - ORM - Associations N:N e Transactions
+  - [X] 6.4 - JWT - (JSON Web Token)
+  - [X] 6.4 - Projeto - API de Blogs
   </details>
 
   <details>
-    <summary><a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/03.%20Back-end/07.%20Masterclass%3A%20Implanta%C3%A7%C3%A3o%20de%20Aplica%C3%A7%C3%B5es%20na%20Nuvem/Dia%2001%3A%20Infraestrutura%3A%20Deploy%20com%20Railway" class="toDo">Seção 7</a>: Masterclass: Implantação de Aplicações na Nuvem</summary>
+    <summary>✔ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/03.%20Back-end/07.%20Masterclass%3A%20Implanta%C3%A7%C3%A3o%20de%20Aplica%C3%A7%C3%B5es%20na%20Nuvem/Dia%2001%3A%20Infraestrutura%3A%20Deploy%20com%20Railway" class="toDo">Seção 7</a>: Masterclass: Implantação de Aplicações na Nuvem</summary>
 
-  - [ ] 7.1 - Infraestrutura: Deploy com Railway
+  - [X] 7.1 - Infraestrutura: Deploy com Railway
   </details>
 
   <details>
-    <summary><a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/03.%20Back-end/08.%20Introdu%C3%A7%C3%A3o%20a%20TypeScript" class="toDo">Seção 8</a>: Introdução a TypeScript</summary>
+    <summary>✔ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/03.%20Back-end/08.%20Introdu%C3%A7%C3%A3o%20a%20TypeScript" class="toDo">Seção 8</a>: Introdução a TypeScript</summary>
 
-  - [ ] 8.1 - Aprendendo TypeScript
-  - [ ] 8.1 - Introdução a Generics
-  - [ ] 8.1 - API REST com Express, JWT, Sequelize e TypeScript
-  - [ ] 8.1 - Testando Aplicações com TypeScript
-  - [ ] 8.1 - Projeto - Trybesmith
+  - [X] 8.1 - Aprendendo TypeScript
+  - [X] 8.1 - Introdução a Generics
+  - [X] 8.1 - API REST com Express, JWT, Sequelize e TypeScript
+  - [X] 8.1 - Testando Aplicações com TypeScript
+  - [X] 8.1 - Projeto - Trybesmith
 
   </details>
 
   <details>
-    <summary><a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/03.%20Back-end/09.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos%20(POO)%20e%20SOLID" class="toDo">Seção 9</a>: Programação Orientada a Objetos (POO) e SOLID</summary>
+    <summary>✔ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/03.%20Back-end/09.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos%20(POO)%20e%20SOLID" class="toDo">Seção 9</a>: Programação Orientada a Objetos (POO) e SOLID</summary>
 
-  - [ ] 9.1 - Introdução à Orientação a Objetos
-  - [ ] 9.2 - Herança e Composição
-  - [ ] 9.3 - Polimorfismo
-  - [ ] 9.4 - SOLID - Introdução e Princípios S, O e D
-  - [ ] 9.4 - SOLID - Princípios L e I
-  - [ ] 9.4 - Projeto - Trybers and Dragons
+  - [X] 9.1 - Introdução à Orientação a Objetos
+  - [X] 9.2 - Herança e Composição
+  - [X] 9.3 - Polimorfismo
+  - [X] 9.4 - SOLID - Introdução e Princípios S, O e D
+  - [X] 9.4 - SOLID - Princípios L e I
+  - [X] 9.4 - Projeto - Trybers and Dragons
   </details>
 
   <details>
-    <summary><a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/03.%20Back-end/10.%20Projeto%20-%20TFC%20-%20Trybe%20Futebol%20Clube" class="toDo">Seção 10</a>: Projeto - TFC - Trybe Futebol Clube</summary>
+    <summary>✔ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/03.%20Back-end/10.%20Projeto%20-%20TFC%20-%20Trybe%20Futebol%20Clube" class="toDo">Seção 10</a>: Projeto - TFC - Trybe Futebol Clube</summary>
 
-  - [ ] 10.1 - Express com Classes
-  - [ ] 10.1 - Projeto - TFC - Trybe Futebol Clube
+  - [X] 10.1 - Express com Classes
+  - [X] 10.1 - Projeto - TFC - Trybe Futebol Clube
 
   </details>
 
@@ -264,23 +264,23 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   <summary><h2>⏳ Ciência da Computação</h2></summary>
 
   <details>
-    <summary><a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/04.%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o/01.%20introdu%C3%A7%C3%A3o%20%C3%A0%20Python" class="toDo">Seção 1</a>: Introdução à Python</summary>
+    <summary>✔ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/04.%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o/01.%20introdu%C3%A7%C3%A3o%20%C3%A0%20Python" class="toDo">Seção 1</a>: Introdução à Python</summary>
 
-  - [ ] 1.1 - Aprendendo Python
-  - [ ] 1.2 - Entrada e Saída de Dados com Testes
+  - [X] 1.1 - Aprendendo Python
+  - [X] 1.2 - Entrada e Saída de Dados com Testes
   </details>
 
   <details>
-    <summary><a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/04.%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o/02.%20Algoritmos" class="toDo">Seção 2</a>: Algoritmos</summary>
+    <summary>✔ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/04.%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o/02.%20Algoritmos" class="toDo">Seção 2</a>: Algoritmos</summary>
 
-  - [ ] 2.1 - Complexidade de Algoritmos
-  - [ ] 2.2 - Recursividade e Extratégias para Solução de Problemas
-  - [ ] 2.3 - Algoritmos de ordenação e busca
-  - [ ] 2.4 - Projeto - Algoritmos
+  - [X] 2.1 - Complexidade de Algoritmos
+  - [X] 2.2 - Recursividade e Extratégias para Solução de Problemas
+  - [X] 2.3 - Algoritmos de ordenação e busca
+  - [X] 2.4 - Projeto - Algoritmos
   </details>
 
   <details>
-    <summary><a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/04.%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o/03.%20Estruturas%20de%20Dadas%20I%3A%20Listas%20Lineares" class="toDo">Seção 3</a>: Estrutura de Dados I: Listas Lineares</summary>
+    <summary> <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/04.%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o/03.%20Estruturas%20de%20Dadas%20I%3A%20Listas%20Lineares" class="toDo">Seção 3</a>: Estrutura de Dados I: Listas Lineares</summary>
 
   - [ ] 3.1 - P.O.O em Python
   - [ ] 3.2 - Arrays
