@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Created by https://www.toptal.com/developers/gitignore/api/python
 # Edit at https://www.toptal.com/developers/gitignore?templates=python
 
@@ -146,6 +147,9 @@ dmypy.json
 
 # vscode docker container
 .devcontainer
+=======
+.venv
+>>>>>>> 3cd1203793039bfb7fd2b084e2d89e85267fc4b4
 =======
 .venv
 >>>>>>> 3cd1203793039bfb7fd2b084e2d89e85267fc4b4
