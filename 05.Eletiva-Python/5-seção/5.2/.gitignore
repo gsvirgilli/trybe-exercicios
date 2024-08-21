@@ -145,8 +145,3 @@ dmypy.json
 
 # End of https://www.toptal.com/developers/gitignore/api/python
 
-# vscode docker container
-.devcontainer
-=======
-
->>>>>>> d44f95a76ebb9e2fe25b5f3c2b5097e130e7505a

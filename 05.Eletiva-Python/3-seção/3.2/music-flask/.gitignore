@@ -4,6 +4,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Created by https://www.toptal.com/developers/gitignore/api/python
 # Edit at https://www.toptal.com/developers/gitignore?templates=python
 
@@ -159,8 +160,7 @@ dmypy.json
 >>>>>>> 3cd1203793039bfb7fd2b084e2d89e85267fc4b4
 =======
 .venv
->>>>>>> 3cd1203793039bfb7fd2b084e2d89e85267fc4b4
-=======
+
 
 >>>>>>> d44f95a76ebb9e2fe25b5f3c2b5097e130e7505a
 =======
