@@ -261,7 +261,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
 <br>
-  <summary><h2>⏳ Ciência da Computação</h2></summary>
+  <summary><h2>✔ Ciência da Computação</h2></summary>
 
   <details>
     <summary>✔ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/04.%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o/01.%20introdu%C3%A7%C3%A3o%20%C3%A0%20Python" class="toDo">Seção 1</a>: Introdução à Python</summary>
@@ -280,20 +280,20 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary> <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/04.%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o/03.%20Estruturas%20de%20Dadas%20I%3A%20Listas%20Lineares" class="toDo">Seção 3</a>: Estrutura de Dados I: Listas Lineares</summary>
+    <summary>✔ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/04.%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o/03.%20Estruturas%20de%20Dadas%20I%3A%20Listas%20Lineares" class="toDo">Seção 3</a>: Estrutura de Dados I: Listas Lineares</summary>
 
-  - [ ] 3.1 - P.O.O em Python
-  - [ ] 3.2 - Arrays
-  - [ ] 3.3 - Nó e Listas Encadeadas 
-  - [ ] 3.4 - Pilhas e filas
-  - [ ] 3.4 - Projeto TING - Trybe Is Not Google
+  - [X] 3.1 - P.O.O em Python
+  - [X] 3.2 - Arrays
+  - [X] 3.3 - Nó e Listas Encadeadas 
+  - [X] 3.4 - Pilhas e filas
+  - [X] 3.4 - Projeto TING - Trybe Is Not Google
 
   </details>
 
   <details>
-    <summary><a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/04.%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o/04.%20Estruturas%20de%20Dados%20II%3A%20Hashmaps%20e%20Sets" class="toDo">Seção 4</a>: Estrutura de Dados II: Hashmaps e Sets</summary>
+    <summary>✔ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/04.%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o/04.%20Estruturas%20de%20Dados%20II%3A%20Hashmaps%20e%20Sets" class="toDo">Seção 4</a>: Estrutura de Dados II: Hashmaps e Sets</summary>
 
-  - [ ] 4.1 - Hashmap e Dict
-  - [ ] 4.2 - Set
-  - [ ] 4.4 - Projeto - Restaurant Orders
+  - [X] 4.1 - Hashmap e Dict
+  - [X] 4.2 - Set
+  - [X] 4.4 - Projeto - Restaurant Orders
   </details>
