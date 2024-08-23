@@ -1,14 +1,22 @@
-from pydantic import BaseModel
-from fastapi import FastAPI
+from fastapi import FastAPI, Depends, Request
 
-app = FastAPI()
-
-
-class User(BaseModel):
-    name: str
-    age: int
+app = FastAPI(title="Olá, mundo!")
 
 
-@app.post("/users")
-def create_user(user: User):
-    return user
+def my_dependency(query_string: str = None):
+    ...
+    return query_string
+
+
+@app.middleware("http")
+async def my_custom_middleware(request: Request, call_next):
+    ...
+    response = await call_next(request)
+    ...
+    return response
+
+
+@app.get("/")
+async def my_route(dependency: str = Depends(my_dependency)):
+    return {"message": dependency}
+
