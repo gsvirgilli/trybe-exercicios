@@ -1,14 +1,8 @@
-from pydantic import BaseModel
 from fastapi import FastAPI
 
-app = FastAPI()
+app = FastAPI(title="Olá, mundo!")
 
 
-class User(BaseModel):
-    name: str
-    age: int
-
-
-@app.post("/users")
-def create_user(user: User):
-    return user
+@app.get("/")
+def home():
+    return {"message": "Hello World"}
