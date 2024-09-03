@@ -8,7 +8,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ## Fundamentos do Desenvolvimento Web
 
-<summary><h2 class="done">✔ Fundamentos do Desenvolvimento Web</h2></summary>
+<summary><h2 class="done">⏳ Fundamentos do Desenvolvimento Web</h2></summary>
 
   <details>
     <summary>✔ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/01.%20Fundamentos/01.%20Unix%2C%20Shell%20e%20Git" class="done">Seção 1</a>: Introdução - Unix & Shell</summary>
@@ -40,7 +40,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary>✔ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/01.%20Fundamentos/04.%20JavaScript%3A%20DOM%2C%20Eventos%20e%20Web%20Storage" class="done">Seção 4</a>: JavaScript: DOM, Eventos e Web Storage</summary>
+    <summary>⏳ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/01.%20Fundamentos/04.%20JavaScript%3A%20DOM%2C%20Eventos%20e%20Web%20Storage" class="done">Seção 4</a>: JavaScript: DOM, Eventos e Web Storage</summary>
 
   - [X] 4.1 - DOM e seletores
   - [ ] 4.2 - Trabalhando com elementos
@@ -50,7 +50,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary>✔ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/01.%20Fundamentos/05.%20HTML%20e%20CSS%3A%20Forms%2C%20Flexbox%20e%20Responsivo" class="done">Seção 5</a>: HTML e CSS: Forms, Flexbox e Responsivo</summary>
+    <summary>⏳ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/01.%20Fundamentos/05.%20HTML%20e%20CSS%3A%20Forms%2C%20Flexbox%20e%20Responsivo" class="done">Seção 5</a>: HTML e CSS: Forms, Flexbox e Responsivo</summary>
 
   - [X] 5.1 - HTML & CSS - Forms
   - [X] 5.2 - Bibliotecas JavaScript e Frameworks CSS
@@ -61,7 +61,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary>✔ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/01.%20Fundamentos/06.%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios" class="done">Seção 6</a>: Introdução à JavaScript ES6 e Testes Unitários</summary>
+    <summary>⏳ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/01.%20Fundamentos/06.%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios" class="done">Seção 6</a>: Introdução à JavaScript ES6 e Testes Unitários</summary>
 
   - [X] 6.1 - Fluxo de exceções e manipulação de objetos
   - [ ] 6.2 - Primeiros passos em Jest
@@ -70,7 +70,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
   
  <details>
- <summary>✔ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/01.%20Fundamentos/07.%20Highter%20Order%20Functions%20do%20JavaScrip%20ES6" class="doing">Seção 7</a>: Higher Order Functions do JavaScript ES6</summary>
+ <summary>⏳ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/01.%20Fundamentos/07.%20Highter%20Order%20Functions%20do%20JavaScrip%20ES6" class="doing">Seção 7</a>: Higher Order Functions do JavaScript ES6</summary>
 
   - [X] 7.1 - Introdução a Higher Order Functions
   - [X] 7.2 - Higher Order Functions - sort e map
@@ -82,10 +82,10 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
  
 <br>
 
- <summary><h2 class="done">✔ Front-end</h2></summary>
+ <summary><h2 class="done">⏳ Front-end</h2></summary>
   
 <details>
- <summary>✔ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/02.%20Front-end/01.%20Introdu%C3%A7%C3%A3o%20ao%20Frontend%20e%20JavaScript%20" class="toDo">Seção 1</a>: Introdução ao Frontend e JavaScript assíncrono</summary>
+ <summary>⏳ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/02.%20Front-end/01.%20Introdu%C3%A7%C3%A3o%20ao%20Frontend%20e%20JavaScript%20" class="toDo">Seção 1</a>: Introdução ao Frontend e JavaScript assíncrono</summary>
 
   - [ ] 1.1 - Ambiente de desenvolvimento
   - [ ] 1.2 - JavaScript Assíncrono - Promises e fetch
@@ -95,7 +95,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 </details>
 
   <details>
-    <summary>✔ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/02.%20Front-end/02.%20Introdu%C3%A7%C3%A3o%20ao%20React" class="toDo">Seção 2</a>: Introdução ao React</summary>
+    <summary>⏳ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/02.%20Front-end/02.%20Introdu%C3%A7%C3%A3o%20ao%20React" class="toDo">Seção 2</a>: Introdução ao React</summary>
 
   - [ ] 2.1 - Introdução ao React e ao TypeScript 
   - [ ] 2.2 - Componentes React e Props
@@ -108,7 +108,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary>✔ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/02.%20Front-end/03.%20Aprofundando%20no%20React" class="toDo">Seção 3</a>: Aprofundando no React</summary>
+    <summary>⏳ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/02.%20Front-end/03.%20Aprofundando%20no%20React" class="toDo">Seção 3</a>: Aprofundando no React</summary>
 
   - [ ] 3.1 - React Router
   - [ ] 3.2 - useEffect
@@ -117,7 +117,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary>✔ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/02.%20Front-end/04.%20Testes%20automatizados%20com%20React%20Testing%20Library" class="toDo">Seção 4</a>: Testes automatizados com React Testing Library</summary>
+    <summary>⏳ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/02.%20Front-end/04.%20Testes%20automatizados%20com%20React%20Testing%20Library" class="toDo">Seção 4</a>: Testes automatizados com React Testing Library</summary>
 
   - [ ] 4.1 - Introdução a React Testing Library
   - [ ] 4.2 - RTL: Mocks
@@ -126,7 +126,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary>✔ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/02.%20Front-end/05.%20Estiliza%C3%A7%C3%A3o%20e%20Metodologia%20%C3%81gil" class="toDo">Seção 5</a>: Estilização e Metodologias Ágeis</summary>
+    <summary>⏳ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/02.%20Front-end/05.%20Estiliza%C3%A7%C3%A3o%20e%20Metodologia%20%C3%81gil" class="toDo">Seção 5</a>: Estilização e Metodologias Ágeis</summary>
 
   - [ ] 5.1 - CSS Modules
   - [ ] 5.2 - Styled Components
@@ -135,7 +135,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary>✔ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/02.%20Front-end/06.%20Gerenciamento%20de%20estado%20com%20Redux" class="toDo">Seção 6</a>: Gerenciamento de estado com Redux</summary>
+    <summary>⏳ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/02.%20Front-end/06.%20Gerenciamento%20de%20estado%20com%20Redux" class="toDo">Seção 6</a>: Gerenciamento de estado com Redux</summary>
 
   - [ ] 6.1 - Introdução ao Redux - O estado global da aplicação
   - [ ] 6.2 - Usando o Redux no React
@@ -146,7 +146,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary>✔ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/02.%20Front-end/07.%20Componentes%20de%20Classes%2C%20Context%20API%20e%20Custom%20Hooks" class="toDo">Seção 7</a>: Componentes de Classes, Context API e Custom Hooks</summary>
+    <summary>⏳ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/02.%20Front-end/07.%20Componentes%20de%20Classes%2C%20Context%20API%20e%20Custom%20Hooks" class="toDo">Seção 7</a>: Componentes de Classes, Context API e Custom Hooks</summary>
 
   - [ ] 7.1 - Componentes de CLasses
   - [ ] 7.2 - Context API
@@ -155,16 +155,16 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary>✔ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/02.%20Front-end/08.%20Projeto%20-%20App%20de%20Receitas" class="toDo">Seção 8</a>: App de Receitas</summary>
+    <summary>⏳ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/02.%20Front-end/08.%20Projeto%20-%20App%20de%20Receitas" class="toDo">Seção 8</a>: App de Receitas</summary>
 
   - [ ] 8. - Projeto App de Receitas
 
   </details>
 <br>
-  <summary><h2>✔ Back-end</h2></summary>
+  <summary><h2>⏳ Back-end</h2></summary>
 
   <details>
-    <summary>✔ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/03.%20Back-end/01.%20Docker%3A%20Utilizando%20Containers" class="toDo">Seção 1</a>: Docker: Utilizando Containers</summary>
+    <summary>⏳ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/03.%20Back-end/01.%20Docker%3A%20Utilizando%20Containers" class="toDo">Seção 1</a>: Docker: Utilizando Containers</summary>
 
   - [ ] 1.1 - Utilizando Containers - Docker
   - [ ] 1.2 - Manipulando Imagens no Docker
@@ -173,7 +173,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary>✔ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/03.%20Back-end/02.%20Introdu%C3%A7%C3%A3o%20%C3%A0%20SQL" class="toDo">Seção 2</a>:  Introdução à SQL</summary>
+    <summary>⏳ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/03.%20Back-end/02.%20Introdu%C3%A7%C3%A3o%20%C3%A0%20SQL" class="toDo">Seção 2</a>:  Introdução à SQL</summary>
 
   - [ ] 2.1 - Banco de dados SQL
   - [ ] 2.2 - Encontrando dados em um banco de dados
@@ -183,7 +183,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary>✔ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/03.%20Back-end/03.%20Fun%C3%A7%C3%B5es%20SQL%2C%20JOINs%20e%20Normaliza%C3%A7%C3%A3o" class="toDo">Seção 3</a>: Funções SQL, JOINs e Normalização</summary>
+    <summary>⏳ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/03.%20Back-end/03.%20Fun%C3%A7%C3%B5es%20SQL%2C%20JOINs%20e%20Normaliza%C3%A7%C3%A3o" class="toDo">Seção 3</a>: Funções SQL, JOINs e Normalização</summary>
 
   - [ ] 3.1 - Funções mais usadas no SQL
   - [ ] 3.2 - Descomplicando JOINs
@@ -192,7 +192,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary>✔ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/03.%20Back-end/04.%20Introdu%C3%A7%C3%A3o%20ao%20desenvolvimento%20Web%20com%20Node.js" class="toDo">Seção 4</a>:  Introdução ao desenvolvimento Web com Node.js</summary>
+    <summary>⏳ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/03.%20Back-end/04.%20Introdu%C3%A7%C3%A3o%20ao%20desenvolvimento%20Web%20com%20Node.js" class="toDo">Seção 4</a>:  Introdução ao desenvolvimento Web com Node.js</summary>
 
   - [X] 4.1 - Node.js: Runtime Assíncrono
   - [X] 4.2 - Node.js: API REST com Express
@@ -203,7 +203,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary>✔ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/03.%20Back-end/05.%20Arquitetura%20de%20Software%3A%20Model%2C%20Service%20e%20Controller" class="toDo">Seção 5</a>: Arquitetura de Software: Model, Service e Controller</summary>
+    <summary>⏳ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/03.%20Back-end/05.%20Arquitetura%20de%20Software%3A%20Model%2C%20Service%20e%20Controller" class="toDo">Seção 5</a>: Arquitetura de Software: Model, Service e Controller</summary>
 
   - [ ] 5.1 - Arquitetura de Software: Camada Model
   - [ ] 5.2 - Arquitetura de Software: Refatorando Camada Model
@@ -214,7 +214,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary>✔ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/03.%20Back-end/06.%20Node%2Cjs%3A%20ORM%20e%20Autentica%C3%A7%C3%A3o" class="toDo">Seção 6</a>: Node.js: ORM e Autenticação</summary>
+    <summary>⏳ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/03.%20Back-end/06.%20Node%2Cjs%3A%20ORM%20e%20Autentica%C3%A7%C3%A3o" class="toDo">Seção 6</a>: Node.js: ORM e Autenticação</summary>
 
   - [X] 6.1 - ORM - Interface da aplicação com o banco de dados
   - [ ] 6.2 - ORM - Associations 1:1 e 1:N
@@ -224,13 +224,13 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary>✔ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/03.%20Back-end/07.%20Masterclass%3A%20Implanta%C3%A7%C3%A3o%20de%20Aplica%C3%A7%C3%B5es%20na%20Nuvem/Dia%2001%3A%20Infraestrutura%3A%20Deploy%20com%20Railway" class="toDo">Seção 7</a>: Masterclass: Implantação de Aplicações na Nuvem</summary>
+    <summary>⏳ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/03.%20Back-end/07.%20Masterclass%3A%20Implanta%C3%A7%C3%A3o%20de%20Aplica%C3%A7%C3%B5es%20na%20Nuvem/Dia%2001%3A%20Infraestrutura%3A%20Deploy%20com%20Railway" class="toDo">Seção 7</a>: Masterclass: Implantação de Aplicações na Nuvem</summary>
 
   - [ ] 7.1 - Infraestrutura: Deploy com Railway
   </details>
 
   <details>
-    <summary>✔ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/03.%20Back-end/08.%20Introdu%C3%A7%C3%A3o%20a%20TypeScript" class="toDo">Seção 8</a>: Introdução a TypeScript</summary>
+    <summary>⏳ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/03.%20Back-end/08.%20Introdu%C3%A7%C3%A3o%20a%20TypeScript" class="toDo">Seção 8</a>: Introdução a TypeScript</summary>
 
   - [ ] 8.1 - Aprendendo TypeScript
   - [ ] 8.1 - Introdução a Generics
@@ -241,7 +241,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary>✔ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/03.%20Back-end/09.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos%20(POO)%20e%20SOLID" class="toDo">Seção 9</a>: Programação Orientada a Objetos (POO) e SOLID</summary>
+    <summary>⏳ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/03.%20Back-end/09.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos%20(POO)%20e%20SOLID" class="toDo">Seção 9</a>: Programação Orientada a Objetos (POO) e SOLID</summary>
 
   - [ ] 9.1 - Introdução à Orientação a Objetos
   - [ ] 9.2 - Herança e Composição
@@ -252,7 +252,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary>✔ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/03.%20Back-end/10.%20Projeto%20-%20TFC%20-%20Trybe%20Futebol%20Clube" class="toDo">Seção 10</a>: Projeto - TFC - Trybe Futebol Clube</summary>
+    <summary>⏳ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/03.%20Back-end/10.%20Projeto%20-%20TFC%20-%20Trybe%20Futebol%20Clube" class="toDo">Seção 10</a>: Projeto - TFC - Trybe Futebol Clube</summary>
 
   - [ ] 10.1 - Express com Classes
   - [ ] 10.1 - Projeto - TFC - Trybe Futebol Clube
@@ -260,17 +260,17 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
 <br>
-  <summary><h2>✔ Ciência da Computação</h2></summary>
+  <summary><h2>⏳ Ciência da Computação</h2></summary>
 
   <details>
-    <summary>✔ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/04.%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o/01.%20introdu%C3%A7%C3%A3o%20%C3%A0%20Python" class="toDo">Seção 1</a>: Introdução à Python</summary>
+    <summary>⏳ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/04.%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o/01.%20introdu%C3%A7%C3%A3o%20%C3%A0%20Python" class="toDo">Seção 1</a>: Introdução à Python</summary>
 
   - [X] 1.1 - Aprendendo Python
   - [ ] 1.2 - Entrada e Saída de Dados com Testes
   </details>
 
   <details>
-    <summary>✔ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/04.%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o/02.%20Algoritmos" class="toDo">Seção 2</a>: Algoritmos</summary>
+    <summary>⏳ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/04.%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o/02.%20Algoritmos" class="toDo">Seção 2</a>: Algoritmos</summary>
 
   - [ ] 2.1 - Complexidade de Algoritmos
   - [ ] 2.2 - Recursividade e Extratégias para Solução de Problemas
@@ -279,7 +279,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary>✔ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/04.%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o/03.%20Estruturas%20de%20Dadas%20I%3A%20Listas%20Lineares" class="toDo">Seção 3</a>: Estrutura de Dados I: Listas Lineares</summary>
+    <summary>⏳ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/04.%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o/03.%20Estruturas%20de%20Dadas%20I%3A%20Listas%20Lineares" class="toDo">Seção 3</a>: Estrutura de Dados I: Listas Lineares</summary>
 
   - [ ] 3.1 - P.O.O em Python
   - [ ] 3.2 - Arrays
@@ -290,7 +290,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary>✔ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/04.%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o/04.%20Estruturas%20de%20Dados%20II%3A%20Hashmaps%20e%20Sets" class="toDo">Seção 4</a>: Estrutura de Dados II: Hashmaps e Sets</summary>
+    <summary>⏳ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/04.%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o/04.%20Estruturas%20de%20Dados%20II%3A%20Hashmaps%20e%20Sets" class="toDo">Seção 4</a>: Estrutura de Dados II: Hashmaps e Sets</summary>
 
   - [ ] 4.1 - Hashmap e Dict
   - [ ] 4.2 - Set
