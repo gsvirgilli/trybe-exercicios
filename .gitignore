@@ -1,3 +1,6 @@
-05.Eletiva-Python/5-seção/5.4/.venv/lib64
-05.Eletiva-Python/2-seção/2.2/.gitignore
-05.Eletiva-Python/6-seção/6.2/python-conteudo-django-cinetrybe
+.node_modules
+05.Eletiva-Python/4-seção/exercicio_1/settings.py
+05.Eletiva-Python/3-seção/3.2/music-flask/.venv/lib/python3.10/site-packages/setuptools/_distutils/command/build.py
+.venv
+03. Back-end/06. Node,js: ORM e Autenticação/Dia 01: Interface de aplicação com o banco de dados/Exercicio/node_modules/.bin/esvalidate
+03. Back-end/06. Node,js: ORM e Autenticação/Dia 01: Interface de aplicação com o banco de dados/Exercicio/node_modules/lodash/map.js
