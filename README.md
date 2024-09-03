@@ -261,7 +261,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
 <br>
-  <summary><h2>⏳ Ciência da Computação</h2></summary>
+  <summary><h2>✔ Ciência da Computação</h2></summary>
 
   <details>
     <summary>✔ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/04.%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o/01.%20introdu%C3%A7%C3%A3o%20%C3%A0%20Python" class="toDo">Seção 1</a>: Introdução à Python</summary>
@@ -280,20 +280,91 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary> <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/04.%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o/03.%20Estruturas%20de%20Dadas%20I%3A%20Listas%20Lineares" class="toDo">Seção 3</a>: Estrutura de Dados I: Listas Lineares</summary>
+    <summary>✔ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/04.%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o/03.%20Estruturas%20de%20Dadas%20I%3A%20Listas%20Lineares" class="toDo">Seção 3</a>: Estrutura de Dados I: Listas Lineares</summary>
 
-  - [ ] 3.1 - P.O.O em Python
-  - [ ] 3.2 - Arrays
-  - [ ] 3.3 - Nó e Listas Encadeadas 
-  - [ ] 3.4 - Pilhas e filas
-  - [ ] 3.4 - Projeto TING - Trybe Is Not Google
+  - [X] 3.1 - P.O.O em Python
+  - [X] 3.2 - Arrays
+  - [X] 3.3 - Nó e Listas Encadeadas 
+  - [X] 3.4 - Pilhas e filas
+  - [X] 3.4 - Projeto TING - Trybe Is Not Google
 
   </details>
 
   <details>
-    <summary><a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/04.%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o/04.%20Estruturas%20de%20Dados%20II%3A%20Hashmaps%20e%20Sets" class="toDo">Seção 4</a>: Estrutura de Dados II: Hashmaps e Sets</summary>
+    <summary>✔ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/04.%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o/04.%20Estruturas%20de%20Dados%20II%3A%20Hashmaps%20e%20Sets" class="toDo">Seção 4</a>: Estrutura de Dados II: Hashmaps e Sets</summary>
 
-  - [ ] 4.1 - Hashmap e Dict
-  - [ ] 4.2 - Set
-  - [ ] 4.4 - Projeto - Restaurant Orders
+  - [X] 4.1 - Hashmap e Dict
+  - [X] 4.2 - Set
+  - [X] 4.4 - Projeto - Restaurant Orders
   </details>
+
+   <summary><h2>✔ Eletiva Python</h2></summary>
+
+  <details>
+    <summary>✔ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/04.%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o/01.%20introdu%C3%A7%C3%A3o%20%C3%A0%20Python" class="toDo">Seção 1</a>: Debug com Python</summary>
+
+  - [X] 1.1 - Estratégias de debug com Python
+  - [X] 1.2 - Automatizando o bug hunting com Pytest
+  - [x] 1.3 - Avançando nos tests em Python
+  - [x] 1.4 - Projeto - ProFiler
+  </details>
+
+  <details>
+    <summary>✔ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/04.%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o/02.%20Algoritmos" class="toDo">Seção 2</a>: Programação Orientada a Objetos</summary>
+
+  - [X] 2.1 - Exercícios + Aula ao vivo
+  - [X] 2.2 - Tipagem e Pilares da POO
+  - [X] 2.3 - Classes abtratas, interfaces e protocolos + Aula ao vivo
+  - [X] 2.4 - Projeto - Inventory Report
+  </details>
+
+  <details>
+    <summary>✔ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/04.%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o/03.%20Estruturas%20de%20Dadas%20I%3A%20Listas%20Lineares" class="toDo">Seção 3</a>: Flask</summary>
+
+  - [X] 3.1 - MongoDB
+  - [X] 3.2 - Ambiente e primeira API
+  - [X] 3.3 - Exercícios + Aula ao vivo
+  - [X] 3.4 - Server Side Rendering em Flask
+  - [X] 3.5 - API e Testes em Flask + Aula ao vivo
+  - [X] 3.6 - Exercícios + Projeto - Traduzo
+
+  </details>
+
+  <details>
+    <summary>✔ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/04.%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o/04.%20Estruturas%20de%20Dados%20II%3A%20Hashmaps%20e%20Sets" class="toDo">Seção 4</a>: Masterclasses: Fast Api</summary>
+
+  - [X] 4.1 - Masterclass FastApi I
+  - [X] 4.2 - Masterclass FastApi II
+  </details>
+
+  <details>
+    <summary>✔ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/04.%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o/03.%20Estruturas%20de%20Dadas%20I%3A%20Listas%20Lineares" class="toDo">Seção 5</a>: Django I</summary>
+
+  - [X] 5.1 - Ambiente de banco de dados e ORM
+  - [X] 5.2 - Templates do Django
+  - [X] 5.3 - Exercícios + Aula ao vivo
+  - [X] 5.4 - Formulários e Relacionamentos de modelos
+  - [X] 5.5 - Django Rest Framewark + Aula ao vivo
+  - [X] 5.6 - Projeto - SportNews
+
+  </details>
+
+  <details>
+    <summary>✔ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/04.%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o/04.%20Estruturas%20de%20Dados%20II%3A%20Hashmaps%20e%20Sets" class="toDo">Seção 6</a>: Django II</summary>
+
+  - [X] 6.1 - Autenticação
+  - [X] 6.2 - Testando aplicações Django
+  - [X] 6.3 - Deplyment no Railway + Aula ao vivo
+  - [X] 6.4 - Projeto - Super Portfólio
+  </details>
+
+
+  <details>
+    <summary>✔ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/04.%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o/04.%20Estruturas%20de%20Dados%20II%3A%20Hashmaps%20e%20Sets" class="toDo">Seção 7</a>: Raspagem de dados</summary>
+
+  - [X] 7.1 - Raspagem de dados
+  - [X] 7.2 - Outras ferramentas de raspagem de dados
+  - [X] 7.3 - Exercícios + Aula ao vivo
+  - [X] 7.4 - Projeto - Tech News
+  </details>
+
