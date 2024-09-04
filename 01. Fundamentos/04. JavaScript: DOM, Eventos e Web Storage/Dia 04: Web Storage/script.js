@@ -2,6 +2,8 @@ window.onload = () => {
   const setBackgroundColor = (color) => {
     let content = document.querySelector(".content")
     content.style.backgroundColor = color
+    // Salvando a cor do fundo no localStorage
+    localStorage.setItem("backgroundColor", color)
   }
 
   const setFontColor = (color) => {
@@ -9,6 +11,8 @@ window.onload = () => {
     for (let index = 0; index < paragraphs.length; index += 1) {
       paragraphs[index].style.color = color
     }
+    // Salvando a cor da fonte no localStorage
+    localStorage.setItem("fontColor", color)
   }
 
   const setFontSize = (size) => {
@@ -16,6 +20,8 @@ window.onload = () => {
     for (let index = 0; index < paragraphs.length; index += 1) {
       paragraphs[index].style.fontSize = size
     }
+    // Salvando o tamanho da fonte no localStorage
+    localStorage.setItem("fontSize", size)
   }
 
   const setLineHeight = (height) => {
@@ -23,6 +29,8 @@ window.onload = () => {
     for (let index = 0; index < paragraphs.length; index += 1) {
       paragraphs[index].style.lineHeight = height
     }
+    // Salvando o espaçamento das linhas no localStorage
+    localStorage.setItem("lineHeight", height)
   }
 
   const setFontFamily = (family) => {
@@ -30,6 +38,8 @@ window.onload = () => {
     for (let index = 0; index < paragraphs.length; index += 1) {
       paragraphs[index].style.fontFamily = family
     }
+    // Salvando a fonte no localStorage
+    localStorage.setItem("fontFamily", family)
   }
 
   // Cor de fundo da tela;
@@ -71,4 +81,22 @@ window.onload = () => {
       setFontFamily(event.target.innerHTML)
     })
   }
+
+  const initialize = () => {
+    let backgroundColor = localStorage.getItem("backgroundColor")
+    if (backgroundColor) setBackgroundColor(backgroundColor)
+
+    let fontColor = localStorage.getItem("fontColor")
+    if (fontColor) setFontColor(fontColor)
+
+    let fontSize = localStorage.getItem("fontSize")
+    if (fontSize) setFontSize(fontSize)
+
+    let lineHeight = localStorage.getItem("lineHeight")
+    if (lineHeight) setLineHeight(lineHeight)
+
+    let fontFamily = localStorage.getItem("fontFamily")
+    if (fontFamily) setFontFamily(fontFamily)
+  }
+  initialize()
 }
