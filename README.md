@@ -40,24 +40,24 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   </details>
 
   <details>
-    <summary>⏳ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/01.%20Fundamentos/04.%20JavaScript%3A%20DOM%2C%20Eventos%20e%20Web%20Storage" class="done">Seção 4</a>: JavaScript: DOM, Eventos e Web Storage</summary>
+    <summary>✔ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/01.%20Fundamentos/04.%20JavaScript%3A%20DOM%2C%20Eventos%20e%20Web%20Storage" class="done">Seção 4</a>: JavaScript: DOM, Eventos e Web Storage</summary>
 
   - [X] 4.1 - DOM e seletores
-  - [ ] 4.2 - Trabalhando com elementos
+  - [X] 4.2 - Trabalhando com elementos
   - [X] 4.3 - Eventos
-  - [ ] 4.4 - Web Storage
-  - [ ] 4.5 - Projeto - Arte com Pixels
+  - [X] 4.4 - Web Storage
+  - [X] 4.5 - Projeto - Arte com Pixels
   </details>
 
   <details>
-    <summary>⏳ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/01.%20Fundamentos/05.%20HTML%20e%20CSS%3A%20Forms%2C%20Flexbox%20e%20Responsivo" class="done">Seção 5</a>: HTML e CSS: Forms, Flexbox e Responsivo</summary>
+    <summary>✔ <a href="https://github.com/gsvirgilli/trybe-exercicios/tree/main/01.%20Fundamentos/05.%20HTML%20e%20CSS%3A%20Forms%2C%20Flexbox%20e%20Responsivo" class="done">Seção 5</a>: HTML e CSS: Forms, Flexbox e Responsivo</summary>
 
   - [X] 5.1 - HTML & CSS - Forms
   - [X] 5.2 - Bibliotecas JavaScript e Frameworks CSS
   - [x] 5.3 - CSS Flexbox - Parte 1
   - [X] 5.4 - CSS Flexbox - Parte 2
   - [X] 5.5 - CSS Responsivo - Mobile First
-  - [ ] 5.6 - Projeto - Trybewarts
+  - [X] 5.6 - Projeto - Trybewarts
   </details>
 
   <details>
